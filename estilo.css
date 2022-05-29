@@ -1,0 +1,65 @@
+/*
+font-family: 'Indie Flower', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Purple Purse', cursive;
+font-family: 'Raleway', sans-serif;
+*/
+
+h1{
+    color: rgb(45, 136, 45);
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif ;
+}
+h2{
+    color: rgb(29, 70, 5);
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 10px;
+}
+h3{
+    color: rgb(29, 70, 5);
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 10px;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: rgb(138, 67, 67);
+}
+ul{
+    color: green;
+    font-family: 'Purple Purse', cursive;
+    line-height: 25px;
+
+}
+ol{
+    color: green;
+    font-family: 'Purple Purse', cursive;
+    line-height: 25px;
+}
+p{
+   color:green;
+   font-family: 'Purple Purse', cursive;  
+}
+.destacado{
+    font-weight: bold;
+    font-style: italic;
+}
+body {
+    margin-left: 20px;
+    background: rgb(108,159,103);
+background: linear-gradient(318deg, rgba(108,159,103,1) 21%, rgba(198,227,197,1) 100%);
+}
+#aclaracion{
+    width: 200px;
+    color: #a41c1c;;
+    padding: 15px;
+    font-size: 12px;
+    border-top: 8px solid #a41c1c;
+    border-bottom: 8px solid #a41c1c;
+    border-radius: 20px 0px 20px 0px;
+}
+.emoti{
+    color: #a41c1c;
+}
